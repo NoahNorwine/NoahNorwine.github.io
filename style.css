@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(134, 137, 181);
+
+}
+
+.banner {
+  background-image: url("banner.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  text-align: center;
+  color: white;
+}
